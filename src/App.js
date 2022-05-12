@@ -1,7 +1,7 @@
-import Footer from "./template-1/Footer";
-import Header from "./template-1/Header";
-import Navbar from "./template-1/Navbar";
-import PageContent from "./template-1/PageContent";
+import Footer from "./components/Footer"
+import Header from "./components/Header";
+import Navbar from "./components/Navbar";
+import PageContent from "./components/PageContent";
 
 function App() {
   return (
