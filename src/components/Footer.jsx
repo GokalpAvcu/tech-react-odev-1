@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
         <footer className="w3-center w3-black w3-padding-16">
   <p>
-    Powered by{"w3.css"}
+    Powered by{""}
     <a
       href="https://www.w3schools.com/w3css/default.asp"
       title= "Gökalp Avcu"
